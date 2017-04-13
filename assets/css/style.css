@@ -18,6 +18,10 @@ img {
 	max-width: 100%;
 }
 
+h3 {
+	margin: 0 0 1em 0;
+}
+
 /*==================================
 =             Header			   =
 ==================================*/
@@ -117,6 +121,20 @@ header nav a.active, header nav a:hover {
 	font-size: 0.75em;
 	color: #bdc3c7;
 }
+
+/*==================================
+=            About page            =
+==================================*/
+
+.profile-photo {
+	display: block;
+	max-width: 150px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+
+
 
 
 /*==============================
