@@ -165,10 +165,6 @@ header nav a.active, header nav a:hover {
 	background-image: url("../img/twitter.png");
 }
 
-
-
-
-
 /*==============================
 =            Footer            =
 ==============================*/
@@ -186,5 +182,3 @@ footer {
 	height: 20px;
 	margin: 0 5px;
 }
-
-
